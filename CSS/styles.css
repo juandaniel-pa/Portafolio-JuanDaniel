@@ -470,7 +470,7 @@ img {
 .skills__node, .skills__ilustrator{
     width: 60%;
 }
-.skills__sql{
+.skills__sql, .skills__mongo{
     width: 50%;
 }
 
@@ -653,7 +653,10 @@ img {
     margin-right: var(--mb-0-25);
 }
 /* Active Modal */
-
+.active-modal{
+    opacity: 1;
+    visibility: visible;
+}
 
 /*==================== PORTFOLIO ====================*/
 
