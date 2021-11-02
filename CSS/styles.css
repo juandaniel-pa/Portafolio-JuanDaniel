@@ -812,6 +812,11 @@ img {
     color: var(--text-color-light);
 }
 
+.contact__submit{
+    border: none;
+    outline: none;
+    font-family: var(--body-font);
+}
 .contact__content{
     background-color: var(--input-color);
     border-radius: .5rem;
